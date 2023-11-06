@@ -41,8 +41,8 @@ local.properties
 **/META-INF/
 .settings/
 .loadpath
-./classpath
 */test-output/**
 
 # Eclipse Core
 .project
+.classpath
